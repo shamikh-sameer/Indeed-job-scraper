@@ -1,7 +1,6 @@
 # Indeed Job Scraper 🕵️‍♂️
 
 A simple web scraper that extracts job listings from Indeed using Selenium and undetected-chromedriver.  
-This was built as a mini-project to showcase my **web scraping skills**.
 
 ## Features
 - Scrapes job postings (title, company, location, etc.)
